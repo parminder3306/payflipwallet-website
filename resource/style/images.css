@@ -1,0 +1,314 @@
+.Orders {
+    background-image: url('/resource/logos/wallet/Orders.png');
+    width:130px;
+    height:150px;
+}
+
+.Addmoney {
+    background-image: url('/resource/logos/wallet/Addmoney.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Sendmoney {
+    background-image: url('/resource/logos/wallet/Sendmoney.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Cashback {
+    background-image: url('/resource/logos/wallet/Cashback.png');
+    height: 52px;
+    width: 52px;
+ box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Paidorder {
+    background-image: url('/resource/logos/wallet/Paidorder.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Receivedmoney {
+    background-image: url('/resource/logos/wallet/Receivedmoney.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Refundcash {
+    background-image: url('/resource/logos/wallet/Refundcash.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Transfer-to-bank {
+    background-image: url('/resource/logos/wallet/Transfer-to-bank.png');
+    height: 52px;
+    width: 52px;
+
+    border: 1px solid #e2e2e2;
+}
+
+.IDEA {
+    background-image: url('/resource/logos/myorders/Idea.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.GOOGLEPLAY {
+    background-image: url('/resource/logos/myorders/Googleplay.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.IDEAPOSTPAID {
+    background-image: url('/resource/logos/myorders/Idea_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRCEL {
+    background-image: url('/resource/logos/myorders/Aircel.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRCELPOSTPAID {
+    background-image: url('/resource/logos/myorders/Aircel_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRTEL {
+    background-image: url('/resource/logos/myorders/Airtel.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRTELPOSTPAID {
+    background-image: url('/resource/logos/myorders/Airtel_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRTELBROADBAND {
+    background-image: url('/resource/logos/myorders/Airtel_Broadband.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRTELLANDLINE {
+    background-image: url('/resource/logos/myorders/Airtel_Landline.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.BSNL {
+    background-image: url('/resource/logos/myorders/BSNL.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.BSNLPOSTPAID {
+    background-image: url('/resource/logos/myorders/BSNL_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.BSNLBROADBAND {
+    background-image: url('/resource/logos/myorders/BSNL_Broadband.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.BSNLLANDLINE {
+    background-image: url('/resource/logos/myorders/BSNL_Landline.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCECDMA {
+    background-image: url('/resource/logos/myorders/Reliance_CDMA.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCECDMAPOSTPAID {
+    background-image: url('/resource/logos/myorders/Reliance_CDMA_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCEGSM {
+    background-image: url('/resource/logos/myorders/Reliance_GSM.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCEGSMPOSTPAID {
+    background-image: url('/resource/logos/myorders/Reliance_GSM.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATADOCOMO {
+    background-image: url('/resource/logos/myorders/TataDocomo.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATADOCOMOPOSTPAID {
+    background-image: url('/resource/logos/myorders/TataDocomo_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATAINDICOM {
+    background-image: url('/resource/logos/myorders/TataIndicom.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TELENOR {
+    background-image: url('/resource/logos/myorders/Telenor.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.VIDEOCON {
+    background-image: url('/resource/logos/myorders/Videocon.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.VODAFONE {
+    background-image: url('/resource/logos/myorders/Vodafone.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.VODAFONEPOSTPAID {
+    background-image: url('/resource/logos/myorders/Vodafone_Postpaid.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.MTSMBLAZE {
+    background-image: url('/resource/logos/myorders/MTS_MBlaze.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.MTSMBROWSE {
+    background-image: url('/resource/logos/myorders/MTS_MBrowse.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATAPHOTONPLUS {
+    background-image: url('/resource/logos/myorders/Tata_Photon_Plus.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATAPHOTONMAX {
+    background-image: url('/resource/logos/myorders/Tata_Photon_Max.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCENETCONNECT {
+    background-image: url('/resource/logos/myorders/Reliance_Netconnect.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.DISHTV {
+    background-image: url('/resource/logos/myorders/Dish_TV.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCEBIGTV {
+    background-image: url('/resource/logos/myorders/Reliance_Big_TV.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.AIRTELDEGITALTV {
+    background-image: url('/resource/logos/myorders/Airtel_Degital_TV.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.TATASKY {
+    background-image: url('/resource/logos/myorders/TataSky.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.SUNDIRECT {
+    background-image: url('/resource/logos/myorders/SunDirect.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.VIDEOCOND2H {
+    background-image: url('/resource/logos/myorders/Videocon_D2H.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.Electricity {
+    background-image: url('/resource/logos/myorders/Electricity.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
+
+.RELIANCEJIO {
+    background-image: url('/resource/logos/myorders/Reliance_JIO.png');
+    height: 52px;
+    width: 52px;
+    box-shadow: 0 0 1px 1px #e2e2e2;
+}
